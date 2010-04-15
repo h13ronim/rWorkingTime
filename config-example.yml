@@ -1,0 +1,8 @@
+google:
+  username: yourname@gmail.com
+  password: secret
+calendar:
+  title: title%40group.calendar.google.com
+  ctz: europe/warsaw
+rate_per_hour: 10
+tax_rate: 22
